@@ -1,6 +1,9 @@
 # python-api-challenge
 
 
+There was no city with humidity over 100!
+
+
 Description: This is made to utilize a weather_api and google_api to create data sets about weather and hotel locations.
 
 
