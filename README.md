@@ -4,7 +4,9 @@
 There was no city with humidity over 100!
 
 
-Description: This is made to utilize a weather_api and google_api to create data sets about weather and hotel locations.
+Steps: 
+
+1. 
 
 
 Obervation 1: With Lat vs Temperature, we can see that as the latitude increases beyond 20 or decreases belowe -20 then the temperature will also decrease. It also makes sense to note that the highest temperature lies around the equator.
